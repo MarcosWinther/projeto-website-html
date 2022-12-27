@@ -19,6 +19,7 @@ th, td {
    margin: 0 auto;
    background-color: rgb(16, 50, 145);
 }
+
 .main {
    display: flex;
    flex-flow: column;
@@ -44,7 +45,7 @@ th, td {
 }
 
 .header {
-   background-color: rgb(5, 108, 108);
+   background-color: rgb(241, 39, 39);
    min-height: 150px;
 }
 
@@ -58,8 +59,9 @@ th, td {
    min-height: 300px;
    padding: 20px;
 }
+
 .footer {
-   background-color: rgb(99, 56, 240);
+   background-color: rgb(148, 141, 168);
    min-height: 150px;
 }
 
